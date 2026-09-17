@@ -1,0 +1,15 @@
+{
+  "methods": [
+    "google"
+  ],
+  "headline": "COAL AI системд нэвтрэх",
+  "subtitle": "Компанийн хамгаалагдсан удирдлагын систем",
+  "style": {
+    "mode": "dark",
+    "accentColor": "#68d29f",
+    "backgroundColor": "#070b0d",
+    "panelColor": "#0f1816",
+    "textColor": "#f4f7f6",
+    "borderRadius": 16
+  }
+}
